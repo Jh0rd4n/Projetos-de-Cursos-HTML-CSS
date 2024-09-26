@@ -1,0 +1,141 @@
+body{
+    background-color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu{
+   display: flex;
+   flex-direction: row;
+  justify-content: end;
+
+
+}
+
+
+.cabeçalho{
+    background-image: url(back-end_codigos\ 3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    height: 800px;
+    padding-top: 1px;
+    
+}
+
+.cabeçalho h1{
+    font-size: 70px;
+    text-align: center;
+    margin: 20px;
+    color: rgb(255, 255, 255);
+    margin-top: 200px;
+    text-shadow: 3px 3px 3px black;
+    ;
+}
+
+.cabeçalho p{
+    font-size: 28px;
+    text-align: center;
+    color: white;
+    text-shadow: 3px 3px 3px black;
+   background-color: rgba(75, 72, 72, 0.575);
+   border-bottom: 2px rgb(255, 255, 255) solid;
+}
+
+.texto{
+    text-align: center;
+    background-color: rgba(75, 72, 72, 0.274);
+    margin: 20px;
+    padding: 20px;
+    border: 2px rgb(0, 0, 0) solid;
+    border-radius: 10px;
+}
+
+.texto h3{
+    font-size: 24px;
+    color: white;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+    background-color: rgba(75, 72, 72, 0.575);
+    border-bottom: 2px rgb(255, 255, 255) solid;
+    
+
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    width: 750px;
+    margin: 16px auto;
+}
+
+.texto p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    width: 750px;
+    margin: 16px auto;
+}
+
+.menu a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transition: all 0,5s;
+
+}
+
+.menu a:hover{
+    color: rgba(255, 246, 246, 0.616);
+}
+
+.btn{  border: rgb(255, 255, 255) 3px solid;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 36px;
+    display: inline-block;
+    letter-spacing: 2px;
+   background-color: rgba(255, 255, 255, 0.123);
+}
+
+img{
+    height: 500px;
+    width: 600px;
+    margin-top:  auto;
+}
+.final {
+    text-align: center;
+    color: white;
+}
+
+h5{color: white;
+    font-size: 18px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+}
+
+.final{
+    margin: 20px;
+    padding: 20px;
+    border-bottom: 2px rgb(255, 255, 255) solid;
+    border-radius: 10px;
+    width: 750px;
+    margin: 16px auto;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h4{
+    color: white;
+    font-size: 18px;
+    padding: 20px;
+    width: 100px;
+    margin: 20px auto;
+    background-color: rgba(75, 72, 72, 0.575);
+    border-bottom: 2px rgb(255, 255, 255) solid;
+    border-radius: 6px;
+   
+
+
+}
+
